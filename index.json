@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "logfire-mcp",
+  "versions": [
+    {
+      "commit": "1e11c2ce193050a11fc956151a2adc78966518c1",
+      "tag": "v0.9.0",
+      "parsed_at": "2026-10-11T20:58:43.191954+00:00"
+    }
+  ]
+}

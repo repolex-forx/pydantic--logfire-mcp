@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydantic",
+  "repo": "logfire-mcp",
+  "versions": [
+    {
+      "commit": "1e11c2ce193050a11fc956151a2adc78966518c1",
+      "parsed_at": "2026-10-11T20:56:33.212780+00:00",
+      "tag": "v0.9.0",
+      "filetree": "filetree/1e11c2ce193050a11fc956151a2adc78966518c1.nq.gz",
+      "blobs": [
+        "blob/cbfd3fc59ee38acc062f0e0d8d8be2d8b34d7395.nq.gz",
+        "blob/e931a3499413e5c459fbfa412f4510143f71d6ba.nq.gz",
+        "blob/5a7556ce5dba0565b7ec2f4454c4d68951476164.nq.gz",
+        "blob/afeecbfddc89b7082b2281bfd8266157e1580a25.nq.gz",
+        "blob/2029441393484d19a2b8fa02ffcf132f15249279.nq.gz",
+        "blob/b3feb9998d40a14e4915e447da351d76ff48d811.nq.gz",
+        "blob/1243aaba76d622b82862a508122912e416b8008b.nq.gz",
+        "blob/7c03240df890d2369cf040a36a1e1569f6f3f149.nq.gz",
+        "blob/3225fe5a48300e77cbe4ae5853de8ab0900af963.nq.gz",
+        "blob/3f674462342f2872f3a390f8352e335b005e18fa.nq.gz",
+        "blob/7980bc87ae6ad1fdf87f58244533819cb9a398ba.nq.gz",
+        "blob/a6d67e80ffa3a83ab264bdbe9c624d9a50c7689f.nq.gz",
+        "blob/e4fba2183587225f216eeada4c78dfab6b2e65f5.nq.gz",
+        "blob/e920ab32c4acd5e08b17373509514e8ea947be2c.nq.gz",
+        "blob/7e1c97658e58960d70ffcea9971600e07888fc40.nq.gz",
+        "blob/ca16eabe9a4c37d9f418f7ea3e711a03aab75b2d.nq.gz",
+        "blob/ead888797579f21513655c1a5b055028f4f2fb77.nq.gz",
+        "blob/7773766fd73aa8833b430ccebf6d154525be461f.nq.gz",
+        "blob/b13076812729a23107d6338e483ea9906d479617.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/ff434b8cea7c582986ac94e8cde943717882f3a6.nq.gz",
+        "blob/f46ca48831f12a0d24107d92a2d6572913345f4d.nq.gz",
+        "blob/e599167b5f7edf325936575abda655e63d7857fd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
